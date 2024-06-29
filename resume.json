@@ -1,0 +1,299 @@
+{
+  "basics": {
+    "name": "Anjali Gopinathan Nair",
+    "label": "All things Cloud Native",
+    "picture": "https://github.com/ThorneShadowbane/image/blob/main/cvimage.png",
+    "email": "anjaligopinadhannair@outlook.com",
+    "phone": "+447833885193",
+    "summary": "An engineer with a love for Cloud native technology, Cyber Security, GitOps, loves debugging, Technical support, Infrastructure as Software",
+    "location": {
+      "address": "284, Hanworth Road",
+      "postalCode": "TW3 3TY",
+      "city": "Hounslow",
+      "countryCode": "UK",
+      "region": "England"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anjaligopinadhan",
+        "url": "https://www.linkedin.com/in/anjali-gopinadhan-nair-11481488/"
+      },
+      {
+        "network": "GitHub",
+        "username": "ThorneShadowbane",
+        "url": "https://github.com/ThorneShadowbane"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Aqua Security Software India Pvt Ltd",
+      "position": "Senior DevSecOps Engineer",
+      "website": "https://www.aquasec.com/",
+      "startDate": "2020-02-17",
+      "summary": "Integrate security practices into the DevOps processes to ensure secure, compliant software development and deployment at Aqua Security Software.",
+      "highlights": [
+        "Integrate security tools, frameworks, and processes into the CI/CD pipeline to ensure secure code deployment"
+	"Work closely with development, operations, and security teams to enhance and maintain a secure development lifecycle"
+	"Advocate for security best practices and help educate teams on secure coding and deployment practices"
+	"Assist in the detection, response, and remediation of security incidents and vulnerabilities"
+	"Develop and implement response strategies to mitigate risks and ensure swift recovery"
+	"Ensure compliance with industry standards and regulatory requirements, such as GDPR, HIPAA, and PCI-DSS"
+      ]
+    },
+    {
+      "company": "Hitachi Vantara",
+      "position": "Senior Cloud Engineer",
+      "website": "https://hitachivantara.com",
+      "startDate": "2019-10-01",
+      "endDate": "2020-01-31",
+      "summary": "Design, implement, and manage cloud infrastructure and services to drive digital transformation and optimize cloud solutions at Hitachi Vantara",
+      "highlights": [
+        "Design, deploy, and manage scalable, reliable, and secure cloud infrastructure solutions",
+        "Utilize best practices for cloud architecture to ensure high availability and disaster recovery",
+        "Set up and manage monitoring and alerting systems to proactively identify and resolve issues",
+        "Automate cloud infrastructure and application deployment using Infrastructure as Code (IaC) tools such as Terraform, CloudFormation, or ARM templates",
+        "Implement and manage security controls to ensure the integrity and confidentiality of cloud resources",
+        "Perform regular maintenance and updates to ensure cloud environments are up-to-date and secure",
+        "Container image build, test and scan CI pipelines",
+      ]
+    },
+    {
+      "company": "REAN Cloud",
+      "position": "Cloud Engineer",
+      "website": "https://www.reancloud.com",
+      "endDate": "2019-10-01",
+      "startDate": "2016-02-08",
+      "summary": "Provide comprehensive support for AWS cloud infrastructure, ensuring optimal performance, security, and availability for the organisation's cloud-based services",
+      "highlights": [
+        "Monitor and manage AWS cloud infrastructure to ensure high availability and performance",
+        "Handle provisioning, configuration, and maintenance of cloud resources such as EC2, S3, RDS, and VPC",
+        "Perform root cause analysis and implement preventive measures to avoid recurrence of issues",
+        "Implemented encryption mechanisms for data-at-rest and data-in-transit using AWS KMS, SSL/TLS, and AWS Certificate Manager",
+        "Implemented CI/CD pipelines using Jenkins, AWS CodePipeline, and GitLab CI/CD for automated deployment and testing",
+        "Utilized scripting languages such as Python and Bash for automation of routine tasks and processes",
+        "Collaborate with development, operations, and security teams to integrate AWS solutions into the overall IT strategy",
+        "Set up monitoring and logging using CloudWatch, CloudTrail, and Elasticsearch for real-time visibility and analysis of AWS resources",
+        "Collaborated with development teams to integrate DevOps practices and tools into the software development lifecycle. Designed and implemented disaster recovery (DR) strategies and backup solutions using AWS services like AWS Backup, S3 versioning, and AWS Disaster Recovery services"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "issuingOrganization": "Amazon Web Services",
+      "website": "https://aws.amazon.com/certification",
+      "issueDate": "2017-01-15",
+      "expirationDate": "2019-01-15",
+      "credentialID": "AWS-ASA-28986",
+      "credentialURL": "https://aws.amazon.com/verification"
+    },
+    {
+      "name": "AWS Certified SysOps Administrator - Associate",
+      "issuingOrganization": "Amazon Web Services",
+      "website": "https://aws.amazon.com/certification",
+      "issueDate": "2019-04-29",
+      "expirationDate": "22022-04-29",
+      "credentialID": "DG88JG31LE1E1JW3",
+      "credentialURL": "https://aws.amazon.com/verification"
+    },
+    {
+      "name": "Red Hat Certified System Administrator",
+      "issuingOrganization": "Red Hat",
+      "website": "https://www.redhat.com/en/services/all-certifications-exams",
+      "issueDate": "2015-07-28",
+      "expirationDate": "2018-07-28",
+      "credentialID": "150-123-487",
+      "credentialURL": "https://rhtapps.redhat.com/verify/?certId=150-123-487"
+    },
+   
+    {
+      "name": "Red Hat Certified Engineer",
+      "issuingOrganization": "Red Hat",
+      "website": "https://www.redhat.com/en/services/all-certifications-exams",
+      "issueDate": "2015-08-25",
+      "expirationDate": "2018-08-25",
+      "credentialID": "150-123-487",
+      "credentialURL": "https://rhtapps.redhat.com/verify/?certId=150-123-487"
+    },
+    {
+      "name": "Hashicorp Certified: Terraform Associate 2021",
+      "issuingOrganization": "Udemy",
+      "website": "https://www.udemy.com/course/hashicorp-certified-terraform-associate/learn/lecture/20975262",
+      "issueDate": "2024-06-27",
+      "credentialID": "UC-a39af87b-11ce-4283-b3b1-d4a14d7157b9",
+      "credentialURL": "https://www.udemy.com/certificate/UC-a39af87b-11ce-4283-b3b1-d4a14d7157b9/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hertfordshire, Hatfield, England, UK",
+      "area": "Cyber Security",
+      "studyType": "Masters",
+      "startDate": "2022-09-19",
+      "endDate": "2024-09-19",
+      "courses": []
+    },
+{
+      "institution": "Mahatma Gandhi University, Kottayam, Kerala, India",
+      "area": "Computer Application",
+      "studyType": "Bachelors",
+      "startDate": "2011-06-03",
+      "endDate": "2014-03-31",
+      "courses": []
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Automation and scripts",
+      "level": "Intermediate",
+      "keywords": [
+        "Bash",
+        "Helm",
+        "Ansible - intermediate"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "keywords": [
+        "Linux",
+      ]
+    },
+    {
+      "name": "Public Clouds",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Azure - intermediate",
+        "GCP - intermediate"
+      ]
+    },
+    {
+      "name": "Serverless",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS Lambda",
+        "Knative - intermediate"
+      ]
+    },
+    {
+      "name": "Security & Compliance",
+      "level": "Pro",
+      "keywords": [
+        "Nessus",
+	"Aqua Security",
+        "Trivy"
+      ]
+    },
+    {
+      "name": "Containerisation & Orchastration",
+      "level": "Intermediate",
+      "keywords": [
+        "Kubernetes",
+        "OpenShift",
+        "ECS",
+        "EKS",
+        "AKS",
+        "GKE",
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Pro",
+      "keywords": [
+        "Terraform",
+        "AWS CloudFormation - intermediate"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "Pro",
+      "keywords": [
+        "Prometheus",
+        "Garfana",
+	"ELK Stack"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "Pro",
+      "keywords": [
+        "Subnetting",
+        "Routing",
+	"IPSec Tunneling",
+	"Firewalls",
+	"IAM"
+      ]
+    },
+    {
+      "name": "Encryption & Certificates,
+      "level": "Pro",
+      "keywords": [
+        "Ciphers",
+        "SSL Configuration"
+      ]
+    },
+   {
+      "name": "User Management,
+      "level": "Pro",
+      "keywords": [
+        "LDAP",
+        "Okta",
+	"Active Directory",
+	"IAM Cloud"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "Python - intermediate"
+      ]
+    },
+    {
+      "name": "Tenetration Testing",
+      "level": "Intermediate",
+      "keywords": [
+        "PenTest"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Pro",
+      "keywords": [
+        "Jenkins",
+	"GitLab",
+	"Azure DevOps"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Malayalam",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": []
+    },
+    {
+      "name": "Meetups and Webinars",
+      "keywords": []
+    },
+    {
+      "name": "Travelling",
+      "keywords": [
+      ]
+    },
+  ],
+  "references": []
+}
